@@ -1,0 +1,9 @@
+{
+  "item_group.endlessgossip.endlessgossip_tab": "Endless Gossip",
+  "tab.endlessgossip.endlessgossip_tab": "Endless Gossip",
+  "item.endlessgossip.gossip_entity_spawn_egg": "Gossip entity",
+  "item.endlessgossip.test_event_source_entity_spawn_egg": "Test event source",
+  "item.endlessgossip.gossip_merchant_spawn_egg": "Merchant",
+  "item.endlessgossip.gossip_thief_spawn_egg": "Thief",
+  "item.endlessgossip.gossip_stranger_spawn_egg": "Stranger"
+}

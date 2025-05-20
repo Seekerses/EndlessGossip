@@ -1,0 +1,9 @@
+{
+  "item_group.endlessgossip.endlessgossip_tab": "Endless Gossip",
+  "tab.endlessgossip.endlessgossip_tab": "Endless Gossip",
+  "item.endlessgossip.gossip_entity_spawn_egg": "Общительный житель",
+  "item.endlessgossip.gossip_merchant_spawn_egg": "Торговец",
+  "item.endlessgossip.gossip_thief_spawn_egg": "Вор",
+  "item.endlessgossip.gossip_stranger_spawn_egg": "Путешественник",
+  "item.endlessgossip.test_event_source_entity_spawn_egg": "Тестовый ивент"
+}
